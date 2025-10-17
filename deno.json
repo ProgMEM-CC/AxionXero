@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "@inquirer/prompts": "npm:@inquirer/prompts@^7.9.0",
+    "@std/assert": "jsr:@std/assert@1",
+    "inquirer": "npm:inquirer@^12.10.0"
+  }
+}
